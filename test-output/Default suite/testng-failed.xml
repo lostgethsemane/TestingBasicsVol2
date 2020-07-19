@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testPackage.HomePageTest">
+        <methods>
+          <include name="verifyThatMouseIsMovedCorrectly"/>
+          <include name="verifyURL"/>
+          <include name="examineFrame"/>
+          <include name="verifyThatObjectIsMovedCorrectly"/>
+          <include name="checkIfTurskiIsSelected"/>
+          <include name="examinePromptBox"/>
+          <include name="setUp"/>
+          <include name="checkIfEmuIsDisabled"/>
+          <include name="examineNumberOfElementsInTable"/>
+          <include name="testMessage"/>
+          <include name="checkStudentsNames"/>
+          <include name="checkIfJezevaKucicaIsSelected"/>
+          <include name="checkNumberOfBoxes"/>
+        </methods>
+      </class> <!-- testPackage.HomePageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

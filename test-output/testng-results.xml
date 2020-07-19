@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16756" started-at="2020-07-19T23:05:08 CEST" finished-at="2020-07-19T23:05:24 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16756" started-at="2020-07-19T23:05:08 CEST" finished-at="2020-07-19T23:05:24 CEST">
+      <class name="testPackage.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testPackage.HomePageTest@68bbe345]" name="setUp" is-config="true" duration-ms="14641" started-at="2020-07-19T23:05:08 CEST" finished-at="2020-07-19T23:05:22 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMessage()[pri:1, instance:testPackage.HomePageTest@68bbe345]" name="testMessage" duration-ms="115" started-at="2020-07-19T23:05:22 CEST" finished-at="2020-07-19T23:05:22 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMessage -->
+        <test-method status="PASS" signature="checkIfEmuIsDisabled()[pri:2, instance:testPackage.HomePageTest@68bbe345]" name="checkIfEmuIsDisabled" duration-ms="29" started-at="2020-07-19T23:05:22 CEST" finished-at="2020-07-19T23:05:22 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkIfEmuIsDisabled -->
+        <test-method status="PASS" signature="checkNumberOfBoxes()[pri:3, instance:testPackage.HomePageTest@68bbe345]" name="checkNumberOfBoxes" duration-ms="16" started-at="2020-07-19T23:05:22 CEST" finished-at="2020-07-19T23:05:22 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNumberOfBoxes -->
+        <test-method status="PASS" signature="checkIfJezevaKucicaIsSelected()[pri:4, instance:testPackage.HomePageTest@68bbe345]" name="checkIfJezevaKucicaIsSelected" duration-ms="77" started-at="2020-07-19T23:05:22 CEST" finished-at="2020-07-19T23:05:23 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkIfJezevaKucicaIsSelected -->
+        <test-method status="PASS" signature="checkIfTurskiIsSelected()[pri:5, instance:testPackage.HomePageTest@68bbe345]" name="checkIfTurskiIsSelected" duration-ms="132" started-at="2020-07-19T23:05:23 CEST" finished-at="2020-07-19T23:05:23 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkIfTurskiIsSelected -->
+        <test-method status="PASS" signature="examinePromptBox()[pri:6, instance:testPackage.HomePageTest@68bbe345]" name="examinePromptBox" duration-ms="99" started-at="2020-07-19T23:05:23 CEST" finished-at="2020-07-19T23:05:23 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examinePromptBox -->
+        <test-method status="PASS" signature="examineNumberOfElementsInTable()[pri:7, instance:testPackage.HomePageTest@68bbe345]" name="examineNumberOfElementsInTable" duration-ms="18" started-at="2020-07-19T23:05:23 CEST" finished-at="2020-07-19T23:05:23 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examineNumberOfElementsInTable -->
+        <test-method status="PASS" signature="checkStudentsNames()[pri:8, instance:testPackage.HomePageTest@68bbe345]" name="checkStudentsNames" duration-ms="247" started-at="2020-07-19T23:05:23 CEST" finished-at="2020-07-19T23:05:23 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStudentsNames -->
+        <test-method status="PASS" signature="verifyThatObjectIsMovedCorrectly()[pri:9, instance:testPackage.HomePageTest@68bbe345]" name="verifyThatObjectIsMovedCorrectly" duration-ms="334" started-at="2020-07-19T23:05:23 CEST" finished-at="2020-07-19T23:05:23 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatObjectIsMovedCorrectly -->
+        <test-method status="PASS" signature="verifyThatMouseIsMovedCorrectly()[pri:10, instance:testPackage.HomePageTest@68bbe345]" name="verifyThatMouseIsMovedCorrectly" duration-ms="151" started-at="2020-07-19T23:05:23 CEST" finished-at="2020-07-19T23:05:24 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatMouseIsMovedCorrectly -->
+        <test-method status="PASS" signature="examineFrame()[pri:11, instance:testPackage.HomePageTest@68bbe345]" name="examineFrame" duration-ms="849" started-at="2020-07-19T23:05:24 CEST" finished-at="2020-07-19T23:05:24 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- examineFrame -->
+        <test-method status="PASS" signature="verifyURL()[pri:12, instance:testPackage.HomePageTest@68bbe345]" name="verifyURL" duration-ms="5" started-at="2020-07-19T23:05:24 CEST" finished-at="2020-07-19T23:05:24 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+      </class> <!-- testPackage.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
